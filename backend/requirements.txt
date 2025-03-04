@@ -1,0 +1,11 @@
+fastapi
+torch
+uvicorn
+pymongo
+python-dotenv
+python-multipart
+sentence-transformers
+numpy
+requests
+twilio
+ollama
