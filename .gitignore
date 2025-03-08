@@ -15,5 +15,6 @@ node_modules/
 # OS-specific files
 .DS_Store
 
-# .yml files
-.yml
+# Ngrok configuration and logs
+ngrok.yml
+.ngrok/
