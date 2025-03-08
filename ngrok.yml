@@ -1,5 +1,5 @@
 version: "2"
-authtoken: 2tgAeOzKJ8uhyI1GTN6s8fT08NU_7w5RMXp9Ezai5kqcSbAbA
+authtoken: YOUR_TOKEN
 tunnels:
   port8000:
     addr: 8000
